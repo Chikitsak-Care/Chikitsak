@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/76b554c2-1d00-4786-9924-d09119bbe91b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Chikitsak",
+    "appService.deploySubpath": "."
+}
