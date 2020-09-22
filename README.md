@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/reachvivek/Doctor-Dashboard/blob/master/src/images/logos/stethoscope.svg" width="200" height="200"></p>
 
-<h1 align="center">CHIKITSAK </br>#Microsoft Azure Champions League'20 (Hack-1) </H1>
+<a href="https://chikitsak.azurewebsites.net/"><h1 align="center">CHIKITSAK </br>#Microsoft Azure Champions League'20 (Hack-1) </H1></a>
 <p align="center">
    <a target="_blank" href="https://www.hackerearth.com/challenges/hackathon/microsoft-azure-champions-league-hack-1/">
         <img src="https://img.shields.io/badge/Challenge-HackerEarth-green.svg?style=for-the-badge&logo=hackerearth" />
